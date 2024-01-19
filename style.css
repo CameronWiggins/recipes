@@ -4,9 +4,18 @@ ul li {
 
 img {
     height: auto;
-    width: 200px;
+    width: 600px;
 }
 
-h1 {
+h1, h2 {
     color: blue;
+}
+
+.step.header {
+    font-weight: bold;
+}
+
+.step.list {
+    font-family: sans-serif;
+    font-size: 10px;
 }
