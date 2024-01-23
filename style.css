@@ -9,6 +9,7 @@ img {
 
 h1, h2 {
     color: blue;
+    display: inline;
 }
 
 .step.header {
@@ -18,4 +19,8 @@ h1, h2 {
 .step.list {
     font-family: sans-serif;
     font-size: 10px;
+}
+
+p {
+    display: inline;
 }
